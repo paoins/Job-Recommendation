@@ -22,7 +22,7 @@ This system analyzes **8,900+ real LinkedIn job postings** and provides personal
 
 ## Live Demo
 
-**[Try the Interactive App →]([https://job-recommendation-hdlofdwnwdxcsdsyvafmfj.streamlit.app/](https://job-recommendation-hdlofdwnwdxcsdsyvafmfj.streamlit.app/))**
+**[Try the Interactive App →] (https://job-recommendation-hdlofdwnwdxcsdsyvafmfj.streamlit.app/))**
 
 Features:
 - Custom candidate profile builder
